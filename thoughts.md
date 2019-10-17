@@ -1,0 +1,10 @@
+# Data
+## Eating 
+- Name
+- Description
+- LatLon
+- City-area
+- Price-rating
+- Website
+- Review-rating
+- Open-hours
