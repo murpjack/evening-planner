@@ -1,0 +1,59 @@
+[{
+  "foodDrink": [{
+      "id": 0,
+      "VenueName": "Bean & Leaf",
+      "Description": "A family ran independent coffee shop serving you only the best.",
+      "PriceRating": 0,
+      "Telephone": "01234567890",
+      "Theme": 0,
+      "coords": [52.407554, -1.510427]
+    },
+    {
+      "id": 1,
+      "VenueName": "Cosy Club",
+      "Description": "Coventry Cosy Club is a glorious celebration of different styles.",
+      "PriceRating": 0,
+      "Telephone": "01234567890",
+      "Theme": 0,
+      "coords": [52.407837, -1.509850]
+    },
+    {
+      "id": 2,
+      "VenueName": "Slug & Lettuce",
+      "Description": "Slug and Lettuce Coventry is set right opposite the Cathedral Ruins, and has a fantastic outside bar and beautiful beer garden.",
+      "PriceRating": 0,
+      "Telephone": "01234567890",
+      "Theme": 0,
+      "coords": [52.408065, -1.508466]
+    }
+  ],
+  "entertainment": [{
+      "id": 3,
+      "VenueName": "Ice skating",
+      "Description": "We offer great courses in Ice Skating Lessons & Ice Hockey Lessons.",
+      "PriceRating": 0,
+      "Telephone": "01234567890",
+      "Theme": 1,
+      "coords": [52.406780, -1.518082]
+    },
+    {
+      "id": 4,
+      "VenueName": "Allesley Pitch and Putt",
+      "Description": "Set in well-maintained parkland. Allesley offers a great day out for the family.",
+      "PriceRating": 0,
+      "Telephone": "01234567890",
+      "Theme": 1,
+      "coords": [52.420184, -1.557579]
+    },
+
+    {
+      "id": 5,
+      "VenueName": "The Wave, water park",
+      "Description": "The UK’s newest indoor waterpark is making a splash in the heart of Coventry.",
+      "PriceRating": 0,
+      "Telephone": "024 7625 2500",
+      "Theme": 1,
+      "coords": [52.405491, -1.510695]
+    }
+  ]
+}]
